@@ -34,7 +34,20 @@
 </p>
 
 ---
+### 📊 My GitHub Stats
 
+<p align="center">
+  <!-- Thống kê chung -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ntk223&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache=bust" alt="GitHub Stats" />
+  <br/>
+  <!-- Ngôn ngữ hay dùng -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntk223&layout=compact&theme=github_dark&cache=bust" alt="Top Languages" />
+  <br/>
+  <!-- Thống kê Chuỗi (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntk223&theme=github-dark-blue&hide_border=true&cache=bust" alt="GitHub Streak" />
+p>
+
+<br>
 ## 🛠️ Tech Stack
 
 <p align="center">
