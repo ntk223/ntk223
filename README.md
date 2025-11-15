@@ -4,11 +4,6 @@
   🚀 Web Developer • Backend Developer • Blockchain Learner
 </p>
 
-<p align="center">
-  <!-- Total commits this year -->
-  <img src="https://img.shields.io/github/commit-activity/y/ntk223/ntk223?style=for-the-badge&label=COMMITS%20THIS%20YEAR" />
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
