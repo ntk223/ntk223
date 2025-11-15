@@ -40,9 +40,12 @@
   <br/>
   <!-- Thống kê Chuỗi (Streak) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntk223&theme=github-dark-blue&hide_border=true&cache=bust" alt="GitHub Streak" />
-p>
+<p/>
 
 <br>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
