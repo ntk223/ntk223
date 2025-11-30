@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <strong>Trung Kien</strong> — ntk223</h1>
 
 <p align="center">
-  🚀 Web Developer • Backend Developer • Blockchain Learner
+  Backend Developer • Blockchain Learner
 </p>
 
 ---
@@ -9,23 +9,10 @@
 ## 🙋‍♂️ About Me
 
 - 👨‍💻 A passionate **Web Developer** who loves building clean, fast, and scalable web applications.  
-- 🌱 Currently focusing on **Backend Development** and **Blockchain (Solidity)**.  
-- 🔧 Enjoy working with **Nodejs, SQL, NoSQL**, and modern web technologies.  
+- 🌱 Currently focusing on **Backend Development** and **Blockchain**.  
+- 🔧 Enjoy working with **Nodejs, Express** and modern web technologies.  
 - 🎯 I love learning new tech, solving problems, and turning ideas into real products.  
 - 🤝 Open to collaborating on **Web Apps, APIs, and Smart Contracts**.  
-
----
-
-## 📌 Pinned Project
-
-<p align="center">
-  <a href="https://github.com/ntk223/VolunteerHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntk223&repo=VolunteerHub&theme=tokyonight&hide_border=true" />
-  </a>
-    <a href="https://github.com/ntk223/VolunteerHub-Blockchain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntk223&repo=VolunteerHub&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 ---
 ### 📊 My GitHub Stats
