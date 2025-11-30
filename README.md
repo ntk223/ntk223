@@ -13,7 +13,6 @@
 - 🔧 Enjoy working with **Node.js, React, MongoDB**, and modern web technologies.  
 - 🎯 I love learning new tech, solving problems, and turning ideas into real products.  
 - 🤝 Open to collaborating on **Web Apps, APIs, and Smart Contracts**.  
-- ⚡ Fun fact: I debug slowly but ship features very fast! 😎  
 
 ---
 
