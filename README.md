@@ -10,7 +10,7 @@
 
 - 👨‍💻 A passionate **Web Developer** who loves building clean, fast, and scalable web applications.  
 - 🌱 Currently focusing on **Backend Development** and **Blockchain**.  
-- 🔧 Enjoy working with **Nodejs, Express** and modern web technologies.  
+- 🔧 Enjoy working with **Nodejs** and modern web technologies.  
 - 🎯 I love learning new tech, solving problems, and turning ideas into real products.  
 - 🤝 Open to collaborating on **Web Apps, APIs, and Smart Contracts**.  
 
