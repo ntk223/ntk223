@@ -1,6 +1,6 @@
 <div align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Trung+Kien+(ntk223);Software+Engineer;Backend+%26+Blockchain+Developer" alt="Typing SVG" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Trung+Kien+(ntk223);Software+Engineer;Backend+%26+DevOps+Enthusiast" alt="Typing SVG" />
 
   <p>
     <a href="https://www.linkedin.com/in/trung-ki%C3%AAn-nguy%E1%BB%85n-37601735b/">
@@ -17,40 +17,31 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer** based in Vietnam, specializing in **Backend Architecture** and **Decentralized Systems**. I focus on building high-performance APIs and scalable infrastructure.
+I am a **Software Engineer** based in Vietnam, focusing on **Scalable Backend Systems** and **Modern DevOps Practices**. My goal is to build robust applications while automating everything in between.
 
-- 🔭 Working on **Microservices with NestJS & Docker**.
-- 🌱 Learning **System Design & Smart Contracts**.
-- ⚡ Fun fact: *I turn coffee into code and bugs into features.*
-
+- 🔭 Currently working on **Microservices with Spring Boot & NestJS**.
+- ☁️ Exploring **Cloud-native technologies & CI/CD Pipelines**.
+- 🌱 Learning **System Design, Kubernetes, and Terraform**.
 ---
 
 ### 🛠️ Technical Arsenal
 
 <div align="center">
 
-| **Backend Core** | **Database & Cloud** | **Languages** |
+| **Backend Core** | **DevOps & Infrastructure** | **Languages** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" width="55" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux" width="55" /> | <img src="https://skillicons.dev/icons?i=ts,js,solidity,cpp" width="55" /> |
+| <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs" width="55" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,githubactions" width="55" /> | <img src="https://skillicons.dev/icons?i=java,ts,js,cpp" width="55" /> |
 
-</div>
+| **Database & Cache** | **Cloud & Tools** |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" width="55" /> | <img src="https://skillicons.dev/icons?i=aws,nginx,prometheus,grafana" width="55" /> |
 
-<br/>
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntk223&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntk223&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntk223&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ntk223/count.svg" />
-</div>
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ntk223&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
