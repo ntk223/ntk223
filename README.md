@@ -37,11 +37,3 @@ I am a **Software Engineer** based in Vietnam, focusing on **Scalable Backend Sy
 | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" width="55" /> | <img src="https://skillicons.dev/icons?i=aws,nginx,prometheus,grafana" width="55" /> |
 
 </div>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntk223&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
